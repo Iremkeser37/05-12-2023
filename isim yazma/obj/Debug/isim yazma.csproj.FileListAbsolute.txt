@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\isim yazma\isim yazma\bin\Debug\isim yazma.exe.config
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\isim yazma\isim yazma\bin\Debug\isim yazma.exe
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\isim yazma\isim yazma\bin\Debug\isim yazma.pdb
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\isim yazma\isim yazma\obj\Debug\isim yazma.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\isim yazma\isim yazma\obj\Debug\isim yazma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\isim yazma\isim yazma\obj\Debug\isim_yazma.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\isim yazma\isim yazma\obj\Debug\isim_yazma.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\isim yazma\isim yazma\obj\Debug\isim yazma.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\isim yazma\isim yazma\obj\Debug\isim yazma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\isim yazma\isim yazma\obj\Debug\isim yazma.exe
+C:\Users\User\Desktop\KORUMASIZ\irem10-A\isim yazma\isim yazma\obj\Debug\isim yazma.pdb
